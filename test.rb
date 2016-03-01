@@ -1,5 +1,5 @@
 require 'logger'
-reguire 'test/unit'
+reguire 'test/unit' // master branch: adding comment
 
 
 class Test::Unit::TestCase
