@@ -1,11 +1,13 @@
 require 'logger'
-reguire 'test/unit' // master branch: adding comment
+require 'test/unit' # master branch: adding comment
 
 
 class Test::Unit::TestCase
 
-fixing bug
+# fixing bug
 
-adding feature
+# adding feature
 
-testing branch: made a change
+# testing branch: made a change
+
+require 'test/testing2' # testing2 branch only
