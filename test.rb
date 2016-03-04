@@ -11,3 +11,5 @@ class Test::Unit::TestCase
 # testing branch: made a change
 
 require 'test/testing2' # testing2 branch only
+
+# some remarks, too
