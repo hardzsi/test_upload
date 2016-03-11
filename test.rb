@@ -12,9 +12,12 @@ class Test::Unit::TestCase
 
 require 'test/master' # master branch only
 require 'test/testing2' # testing2 branch only
+require 'develop' # for development branch only
 
 # some remarks, too
 # some more remarks just for 'master' branch
 
 # testing Long-running Branches Workflow
 # this is the basis for that
+
+# additional notes for branch "develop"
