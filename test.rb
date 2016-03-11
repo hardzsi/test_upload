@@ -15,3 +15,6 @@ require 'test/testing2' # testing2 branch only
 
 # some remarks, too
 # some more remarks just for 'master' branch
+
+# testing Long-running Branches Workflow
+# this is the basis for that
