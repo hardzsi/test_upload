@@ -1,4 +1,6 @@
 # this is the additional content for new 'topic'  
 require 'topic/new' # the most important step to start with
+require 'topic/remote' # branching (remote)
 
-#some remarks on it
+# some remarks on it
+# branching (remote)
