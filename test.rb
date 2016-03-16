@@ -1,23 +1,10 @@
+# test.rb
 require 'logger'
 require 'test/unit' # adding comment
-
+require 'test/master' # master branch only
+require 'test/testing2' # testing2 branch only
+require 'branching/local' # branching (local)
 
 class Test::Unit::TestCase
 
-# fixing bug
-
-# adding feature
-
-# testing branch: made a change
-
-require 'test/master' # master branch only
-require 'test/testing2' # testing2 branch only
-require 'develop' # for development branch only
-
-# some remarks, too
-# some more remarks just for 'master' branch
-
-# testing Long-running Branches Workflow
-# this is the basis for that
-
-# additional notes for branch "develop"
+# branching (local)
